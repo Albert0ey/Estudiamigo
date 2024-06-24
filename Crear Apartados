@@ -1,1 +1,11 @@
 Aquí se va a enviar todo lo de como e va a organizar para su creación de la app
+seleccion de tareas por dia
+obtener los recordatorios en tiempo y forma de tal manera que no se sobre sature la agenda
+en el apartado de tareas se puede modifcar el color y ordenar por dia, fecha y materias
+el horario va seleccionado por dias y materias junto con ello las notificaciones de cambio de clases y recordatorio de tareas
+las notificaciones saldran 30 min antes de cada clase y 1 dia antes de cada clase
+hay la opcion para mantener las notificaciones en silencio o que se hagan en modo no molestar con opcion
+a que simple mente mande el texto como un mensaje normal
+en cuanto al apartado de tareas tambien puede ser programable desde el momento en el que se crea
+las prioridades saldran grises en el momento en el que se esten creando de color verde cuando se hayan realizado con exito.
+y por ultimo con la lista diaria podremos manejar la informacion como un cehcklist en cual poremos ir palomeando cuando ya hallamos termiando la actividad escrita en ese apartado.
